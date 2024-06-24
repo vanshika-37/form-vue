@@ -1,4 +1,3 @@
-<!-- CheckboxDropdown.vue -->
 <template>
     <div>
         <b-button :style="buttonStyle" @click="isDialogOpen = true">
